@@ -23,7 +23,7 @@ const Home = () => {
         </h1>
         <p className="mt-2 text-[#666e75] text-[16px]">
           Browse through a collection of imaginative and visually stunning
-          images generated with OpenAI API
+          images generated with GenAI.
         </p>
       </div>
       <div className="mt-16">
